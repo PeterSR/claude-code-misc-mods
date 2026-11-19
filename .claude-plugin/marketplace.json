@@ -1,0 +1,17 @@
+{
+  "name": "misc-mods",
+  "owner": {
+    "name": "Peter Severin Rasmussen",
+    "url": "https://github.com/PeterSR"
+  },
+  "metadata": {
+    "description": "Small Claude Code mods built on function hooks"
+  },
+  "plugins": [
+    {
+      "name": "whilst",
+      "source": "./whilst",
+      "description": "Connects Claude Code to whilst: tells it which sessions are busy, and shows a line above the prompt that your whilst config writes"
+    }
+  ]
+}

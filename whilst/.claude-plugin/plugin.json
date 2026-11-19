@@ -1,0 +1,11 @@
+{
+  "name": "whilst",
+  "version": "0.1.0",
+  "description": "Connects Claude Code to whilst: tells it which sessions are busy, and shows a line above the prompt that your whilst config writes",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Peter Severin Rasmussen"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/PeterSR/claude-code-misc-mods"
+}
